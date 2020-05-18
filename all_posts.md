@@ -1,12 +1,12 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Thoughts
+landing-title: 'Thoughts'
 nav-menu: true
 description: null
 image: null
-author: null
+author: Edaan
 show_tile: false
 ---
 
-<h1>All posts</h1>
+<h1>Thoughts</h1>
