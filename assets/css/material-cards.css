@@ -128,7 +128,8 @@
     top: 100%;
     right: 30px;
     left: 30px;
-    bottom: 54px;
+    bottom: 32px;
+    color: #242943;
     overflow: hidden;
     opacity: 0;
     filter: alpha(opacity=0);
